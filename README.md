@@ -55,9 +55,11 @@ The main() method uses Spring Boot’s SpringApplication.run() method to launch 
 
   1. get customer preferences using created id
 
-  ![image](https://user-images.githubusercontent.com/89606757/131079209-5aee8fb2-077f-479d-9d43-04d3991c2481.png)
+  ![image](https://user-images.githubusercontent.com/89606757/131079742-52ca300e-0558-4172-8745-aceb04eeae3a.png)
+
   
   2. get customer preferences using email id and phone number
 
-  ![image](https://user-images.githubusercontent.com/89606757/131079281-9ffdc740-59c6-4cfd-bcfd-b8de8303609b.png)
+  ![image](https://user-images.githubusercontent.com/89606757/131079637-3adef5de-284c-4999-9221-0ff726f4d1ad.png)
+
 
