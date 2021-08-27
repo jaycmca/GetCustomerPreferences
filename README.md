@@ -2,8 +2,9 @@
 Spring Boot GET Rest API example
 1. What we’ll build
 We will build Customer Preferences RESTFul APIs for a Simple Customer Preferences Management System using Spring Boot 2 JPA and MySQL. Following are three REST APIs (Controller handler methods) are created for Customer.
-  1.1 GET http://localhost:8080/customer/v1/get-customer-preferences/{id}
-  1.2 GET http://localhost:8080/customer/v1/get-customer-preferences?emailId={emailId}&phoneNumber={phoneNumber}
+ ** 1.1 GET http://localhost:8080/customer/v1/get-customer-preferences/{id}
+ 
+  1.2 GET http://localhost:8080/customer/v1/get-customer-preferences?emailId={emailId}&phoneNumber={phoneNumber}**
   
 2. Tools and Technologies Used
 Spring Boot - 2.0.5.RELEASE
